@@ -1,11 +1,10 @@
-### Hi there 👋
+### NITHEESH R NAIR
 
-<!--
-**Lionisking/Lionisking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## This is my GitHub profile, Here i will be showcasing my talents that i will acquire over time.
 
-Here are some ideas to get you started:
+# PROJECTS COMPLETED
 
-- 🔭 I’m currently working on ...
+- I’m currently working on
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
